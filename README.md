@@ -15,3 +15,11 @@ Instrucciones:
   9. Si un jugador intenta realizar un movimiento en una casilla ya ocupada, el programa debe mostrar un mensaje de error y permitir que el jugador realice otro movimiento.
 
   Bonus: Desarrollar un marcador que permita acumular puntos a cada jugador en sucesivas rondas. Al terminar la partida, se preguntará si desean competir otra vez. En caso positivo se irán acumulando las victorias, mientras que una respuesta negativa reiniciará los marcadores a la espera de un nuevo juego.
+
+Requisitos: Se deben emplear matrices o listas para la representación del tablero del juego. Una posible representación del tablero podría ser esta:
+
+[0,1,2]      [0,1,2]      [O,1,2]      [O,1,2]
+[3,4,5]  --> [3,X,5]  --> [3,X,5]  --> [3,X,X] ...
+[6,7,8]      [6,7,8]      [6,7,8]      [6,7,8]
+
+Asegúrate de que el programa sea claro y fácil de entender, utilizando comentarios para explicar la lógica de tu código.
