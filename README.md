@@ -18,8 +18,8 @@ Instrucciones:
 
 Requisitos: Se deben emplear matrices o listas para la representación del tablero del juego. Una posible representación del tablero podría ser esta:
 
-[0,1,2]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[0,1,2]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[O,1,2]      [O,1,2] \
-[3,4,5]&nbsp&nbsp-->&nbsp&nbsp [3,X,5]&nbsp&nbsp-->&nbsp&nbsp[3,X,5]&nbsp&nbsp-->&nbsp&nbsp[3,X,X] ...\
+[0,1,2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0,1,2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[O,1,2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[O,1,2] \
+[3,4,5]&nbsp;&nbsp;-->&nbsp;&nbsp;[3,X,5]&nbsp;&nbsp;-->&nbsp;&nbsp;[3,X,5]&nbsp;&nbsp;-->&nbsp;&nbsp;[3,X,X] ...\
 [6,7,8]      [6,7,8]      [6,7,8]      [6,7,8] \
 
 Asegúrate de que el programa sea claro y fácil de entender, utilizando comentarios para explicar la lógica de tu código.
